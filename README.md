@@ -1,4 +1,4 @@
-# ams-narrative-warfare-model-
+# ams-narrative-warfare-model
 Simulation of narrative spread and influence in social networks.
 # Influence Cascade Prototype
 Early research prototype demonstrating probabilistic spread of narratives or beliefs in social networks using the Independent Cascade (IC) model.
